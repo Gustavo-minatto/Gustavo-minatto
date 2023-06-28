@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Gustavo Minatto 👋
 
-<!--
-**Gustavo-minatto/Gustavo-minatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer, And, I'm studying web developmente at [Rocktseat.](https://www.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+#### Curent stack
+-Main language: `JavaScript`
+- Backend:`Node.js`
+- Frontend: `React.js`, `HTML5`, `CSS3`, `Javascript`
+- Layout Desing: `Figma`
+- Version code control : `Git & Github`
+- Tools: `VsCode`. `Markdown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: gustavominatto23@gmail.com 
+- Linkedin: www.linkedin.com/in/minattin
