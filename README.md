@@ -1,7 +1,8 @@
 ### Hi there, I'm Gustavo Minatto 👋
 
 #### About
-I'm a Web Developer, And, I'm studying web developmente at [Rocktseat.](https://www.rocketseat.com.br/)
+I'm a Web Developer, and I've completed the Web Development course at [Rocketseat].https://www.rocketseat.com.br/)
+ Currently, I'm pursuing Análise e Desenvolvimento de Sistemas at FIAP.https://www.fiap.com.br/)
 
 #### Curent stack
 -Main language: `JavaScript`
